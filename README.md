@@ -7,7 +7,7 @@ This project is consists of two technical products and have submitted the follow
 ### Deliverable 1 
 
 Scrape titles and preview text from Mars news articles, and it has beeen updated in a jupyter notebook using Python Pandas and the link follows,
-
+https://github.com/MeerKar/WebScraping/blob/main/part_1_mars_news.ipynb
 
 #### Deliverable 2 
 
