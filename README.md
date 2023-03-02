@@ -12,6 +12,7 @@ https://github.com/MeerKar/WebScraping/blob/main/part_1_mars_news.ipynb
 #### Deliverable 2 
 
 Scrape and analyze Mars weather data, which exists in a table, and this too has been updated in a jupyter notebook using Python Pandas and the link follows.
+https://github.com/MeerKar/WebScraping/blob/main/part_2_mars_weather.ipynb
 
 
 ### Part 1 : 
