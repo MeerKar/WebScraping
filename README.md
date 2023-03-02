@@ -131,7 +131,11 @@ Consider how many days elapse on Earth in the time that Mars circles the Sun onc
 
 Visually estimate the result by plotting the daily minimum temperature.
 
-<img width="409" alt="image" src="https://user-images.githubusercontent.com/116701851/222315148-a7580697-f864-41d3-b2eb-dae6e0f4dc8e.png">
+<img width="860" alt="image" src="https://user-images.githubusercontent.com/116701851/222534312-24954cab-6dea-4a91-9647-82a531844530.png">
+
+And to summarize the analysis would be
+
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/116701851/222534562-63869d38-4a98-4a35-b896-007a5e3431f8.png">
 
 ### To conclude the project dataframe is exported as CSV file.
 
