@@ -124,6 +124,11 @@ pressure: The atmospheric pressure at Curiosity's location
 
 <img width="705" alt="image" src="https://user-images.githubusercontent.com/116701851/222314917-7539660e-081d-44c5-9212-746503da8824.png">
 
+And also Mars Elapsed Sols by Martian Month,
+
+
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/116701851/222535272-f92ad809-47bf-461f-bd72-d2377e2a05f2.png">
+
 
 ### About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 
